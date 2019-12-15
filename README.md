@@ -8,6 +8,12 @@
 
 如果以后有机会还应该将**另类数据**也考虑进来，同时还需要对财务和技术指标进行更严谨的定价。
 
+```
+data.ipynb          #  get date from resset
+data_process.ipynb  #  normalize ,delete date
+choose_stock.ipynb  #  find some stocks better and test them
+```
+
 ## 版本
 
 | Version | Description | Date       |
